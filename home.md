@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Italian Botanist
+description: Browse data on GBIF associated with publications in Italian Botanist
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Astuti G, Marconi G, Pupillo P, Peruzzi L (2019) _Anemonoides_ × _lipsiensis_ comb. nov. (Ranunculaceae), new for the Italian flora. Italian Botanist 7: 101-105. [https://doi.org/10.3897/italianbotanist.7.35004](https://doi.org/10.3897/italianbotanist.7.35004)"
 height: 75vh
 cta:
   - text: Datasets
